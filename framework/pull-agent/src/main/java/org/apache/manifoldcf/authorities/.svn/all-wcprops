@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities
+END
+UnRegisterDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/UnRegisterDomain.java
+END
+ChangeAuthSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/ChangeAuthSpec.java
+END
+CheckConfigured.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/CheckConfigured.java
+END
+DefineAuthorityConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/DefineAuthorityConnection.java
+END
+DefineMappingConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/DefineMappingConnection.java
+END
+RegisterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/RegisterMapper.java
+END
+DeleteAuthorityConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/DeleteAuthorityConnection.java
+END
+SynchronizeAuthorities.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/SynchronizeAuthorities.java
+END
+BaseDomainsInitializationCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/BaseDomainsInitializationCommand.java
+END
+UnRegisterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/UnRegisterMapper.java
+END
+RegisterAuthority.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/RegisterAuthority.java
+END
+DeleteMappingConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/DeleteMappingConnection.java
+END
+UnRegisterAuthority.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/UnRegisterAuthority.java
+END
+UnRegisterAllAuthorities.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/UnRegisterAllAuthorities.java
+END
+BaseAuthoritiesInitializationCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/BaseAuthoritiesInitializationCommand.java
+END
+SynchronizeMappers.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/SynchronizeMappers.java
+END
+CheckAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/CheckAll.java
+END
+UnRegisterAllMappers.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/UnRegisterAllMappers.java
+END
+BaseMappersInitializationCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/BaseMappersInitializationCommand.java
+END
+RegisterDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/RegisterDomain.java
+END

@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine
+END
+VariableBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/VariableBase.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/Token.java
+END
+NewConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/NewConfiguration.java
+END
+NewQueryArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/NewQueryArgument.java
+END
+ScriptException.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/ScriptException.java
+END
+VariableResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/VariableResult.java
+END
+Variable.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/Variable.java
+END
+NewConfigurationNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/NewConfigurationNode.java
+END
+NewArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/NewArray.java
+END
+ErrorCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/ErrorCommand.java
+END
+RemoveCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/RemoveCommand.java
+END
+IfCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/IfCommand.java
+END
+WaitCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/WaitCommand.java
+END
+VariableReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/VariableReference.java
+END
+VariableQueryArg.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/VariableQueryArg.java
+END
+WhileCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/WhileCommand.java
+END
+NewConnectionName.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/NewConnectionName.java
+END
+NewURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/NewURL.java
+END
+VariableConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/VariableConfiguration.java
+END
+GETCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/GETCommand.java
+END
+ScriptParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/ScriptParser.java
+END
+VariableConfigurationNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/VariableConfigurationNode.java
+END
+BreakCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/BreakCommand.java
+END
+POSTCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/POSTCommand.java
+END
+VariableArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/VariableArray.java
+END
+VariableBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/VariableBoolean.java
+END
+RewindableTokenStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/RewindableTokenStream.java
+END
+VariableDict.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/VariableDict.java
+END
+SetCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/SetCommand.java
+END
+PrintCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/PrintCommand.java
+END
+TokenStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/TokenStream.java
+END
+BasicTokenStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/BasicTokenStream.java
+END
+NullVariableReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/NullVariableReference.java
+END
+VariableInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/VariableInt.java
+END
+DELETECommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/DELETECommand.java
+END
+InsertCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/InsertCommand.java
+END
+VariableConnectionName.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/VariableConnectionName.java
+END
+PUTCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/PUTCommand.java
+END
+CharacterStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/CharacterStream.java
+END
+VariableURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/VariableURL.java
+END
+ContextVariableReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/ContextVariableReference.java
+END
+NewOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/NewOperation.java
+END
+VariableFloat.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/VariableFloat.java
+END
+VariableString.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/VariableString.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/Command.java
+END
+NewDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/main/java/org/apache/manifoldcf/scriptengine/NewDictionary.java
+END

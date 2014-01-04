@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/database
+END
+ConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/database/ConnectionFactory.java
+END
+QueryDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/database/QueryDescription.java
+END
+RRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/database/RRow.java
+END
+DBInterfacePostgreSQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/database/DBInterfacePostgreSQL.java
+END
+DBInterfaceDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/database/DBInterfaceDerby.java
+END
+DBInterfaceMySQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/database/DBInterfaceMySQL.java
+END
+RSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/database/RSet.java
+END
+MergedResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/database/MergedResultSet.java
+END
+BaseObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/database/BaseObject.java
+END
+TransactionHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/database/TransactionHandle.java
+END
+BaseTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/database/BaseTable.java
+END
+DBInterfaceHSQLDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/database/DBInterfaceHSQLDB.java
+END
+Database.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/database/Database.java
+END

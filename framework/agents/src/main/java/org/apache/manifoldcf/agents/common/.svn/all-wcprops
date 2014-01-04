@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/common
+END
+XMLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/common/XMLContext.java
+END
+XMLFileContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/common/XMLFileContext.java
+END
+XMLStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/common/XMLStream.java
+END
+XMLStringContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/common/XMLStringContext.java
+END
+XMLOutputStreamContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/common/XMLOutputStreamContext.java
+END
+XMLWriterContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/common/XMLWriterContext.java
+END

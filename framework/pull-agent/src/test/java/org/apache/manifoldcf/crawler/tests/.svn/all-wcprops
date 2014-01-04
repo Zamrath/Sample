@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests
+END
+SanityHSQLDBextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/SanityHSQLDBextTest.java
+END
+ManifoldCFInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/ManifoldCFInstance.java
+END
+BaseHSQLDBext.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/BaseHSQLDBext.java
+END
+BaseITPostgresql.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/BaseITPostgresql.java
+END
+SanityPostgresqlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/SanityPostgresqlTest.java
+END
+BaseITMySQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/BaseITMySQL.java
+END
+BaseITDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/BaseITDerby.java
+END
+SanityDerbyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/SanityDerbyTest.java
+END
+SanityMySQLTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/SanityMySQLTest.java
+END
+BasePostgresql.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/BasePostgresql.java
+END
+BaseMySQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/BaseMySQL.java
+END
+BaseDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/BaseDerby.java
+END
+SchedulingRepositoryConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/SchedulingRepositoryConnector.java
+END
+ConnectorBaseHSQLDBext.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/ConnectorBaseHSQLDBext.java
+END
+SanityHSQLDBTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/SanityHSQLDBTest.java
+END
+BaseITHSQLDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/BaseITHSQLDB.java
+END
+SchedulerTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/SchedulerTester.java
+END
+NullOutputConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/NullOutputConnector.java
+END
+ConnectorBaseUIPostgresql.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/ConnectorBaseUIPostgresql.java
+END
+BaseHSQLDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/BaseHSQLDB.java
+END
+ConnectorBaseUIDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/ConnectorBaseUIDerby.java
+END
+ConnectorBasePostgresql.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/ConnectorBasePostgresql.java
+END
+ConnectorBaseUIMySQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/ConnectorBaseUIMySQL.java
+END
+ConnectorBaseMySQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/ConnectorBaseMySQL.java
+END
+ConnectorBaseDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/ConnectorBaseDerby.java
+END
+SchedulerHSQLDBTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/SchedulerHSQLDBTest.java
+END
+ConnectorBaseUIHSQLDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/ConnectorBaseUIHSQLDB.java
+END
+ConnectorBaseHSQLDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/test/java/org/apache/manifoldcf/crawler/tests/ConnectorBaseHSQLDB.java
+END

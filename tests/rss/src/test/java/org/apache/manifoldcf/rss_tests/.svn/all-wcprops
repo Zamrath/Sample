@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/rss/src/test/java/org/apache/manifoldcf/rss_tests
+END
+BaseMySQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/rss/src/test/java/org/apache/manifoldcf/rss_tests/BaseMySQL.java
+END
+BaseDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/rss/src/test/java/org/apache/manifoldcf/rss_tests/BaseDerby.java
+END
+RSSSimpleCrawlTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/rss/src/test/java/org/apache/manifoldcf/rss_tests/RSSSimpleCrawlTester.java
+END
+MockRSSService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/rss/src/test/java/org/apache/manifoldcf/rss_tests/MockRSSService.java
+END
+RSSSimpleCrawlHSQLDBIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/rss/src/test/java/org/apache/manifoldcf/rss_tests/RSSSimpleCrawlHSQLDBIT.java
+END
+RSSSimpleCrawlCombinedHSQLDBIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/rss/src/test/java/org/apache/manifoldcf/rss_tests/RSSSimpleCrawlCombinedHSQLDBIT.java
+END
+BaseHSQLDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/rss/src/test/java/org/apache/manifoldcf/rss_tests/BaseHSQLDB.java
+END
+BigCrawlPostgresqlLT.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/rss/src/test/java/org/apache/manifoldcf/rss_tests/BigCrawlPostgresqlLT.java
+END
+BigCrawlMySQLLT.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/rss/src/test/java/org/apache/manifoldcf/rss_tests/BigCrawlMySQLLT.java
+END
+BigCrawlDerbyLT.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/rss/src/test/java/org/apache/manifoldcf/rss_tests/BigCrawlDerbyLT.java
+END
+BigCrawlTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/rss/src/test/java/org/apache/manifoldcf/rss_tests/BigCrawlTester.java
+END
+RSSFlakyDerbyIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/rss/src/test/java/org/apache/manifoldcf/rss_tests/RSSFlakyDerbyIT.java
+END
+FlakyDerbyInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/rss/src/test/java/org/apache/manifoldcf/rss_tests/FlakyDerbyInstance.java
+END
+NavigationDerbyUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/rss/src/test/java/org/apache/manifoldcf/rss_tests/NavigationDerbyUI.java
+END
+BigCrawlHSQLDBLT.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/rss/src/test/java/org/apache/manifoldcf/rss_tests/BigCrawlHSQLDBLT.java
+END
+RSSSimpleCrawlDerbyIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/rss/src/test/java/org/apache/manifoldcf/rss_tests/RSSSimpleCrawlDerbyIT.java
+END
+BaseUIDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/rss/src/test/java/org/apache/manifoldcf/rss_tests/BaseUIDerby.java
+END
+BasePostgresql.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/rss/src/test/java/org/apache/manifoldcf/rss_tests/BasePostgresql.java
+END

@@ -1,0 +1,174 @@
+10
+
+dir
+1555356
+http://svn.apache.org/repos/asf/manifoldcf/branches/CONNECTORS-674/framework
+http://svn.apache.org/repos/asf
+
+
+
+2013-12-28T14:19:52.113506Z
+1553831
+kwright
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+jetty-runner
+dir
+
+script-engine
+dir
+
+api-service
+dir
+
+pull-agent
+dir
+
+example-multiprocess-common
+dir
+
+example-singleprocess
+dir
+
+authority-servlet
+dir
+
+crawler-ui
+dir
+
+example-multiprocess-file-proprietary
+dir
+
+combined-service
+dir
+
+agents
+dir
+
+example-common
+dir
+
+example-multiprocess-zk-proprietary
+dir
+
+example-multiprocess-file-common
+dir
+
+authority-service
+dir
+
+scripts
+dir
+
+example-singleprocess-proprietary
+dir
+
+core
+dir
+
+example-multiprocess-zk-common
+dir
+
+engine-scripts
+dir
+
+pom.xml
+file
+
+
+
+
+2014-01-04T15:58:10.000000Z
+ab9a4b5cbbe317c900ed6026c0f02eff
+2013-10-20T21:05:35.076892Z
+1533982
+kwright
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1790
+
+api-servlet
+dir
+
+script-example
+dir
+
+build.xml
+file
+
+
+
+
+2014-01-04T15:58:10.000000Z
+bf06ecc68c2737bb60c98d0502ce49e5
+2013-12-21T13:38:34.814606Z
+1552900
+kwright
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+87804
+
+example-singleprocess-common
+dir
+
+example-multiprocess-file
+dir
+
+ui-core
+dir
+
+example-multiprocess-zk
+dir
+

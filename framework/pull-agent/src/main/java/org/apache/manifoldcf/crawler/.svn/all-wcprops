@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler
+END
+DeleteRepositoryConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/DeleteRepositoryConnection.java
+END
+Register.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/Register.java
+END
+DefineJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/DefineJob.java
+END
+RunResultHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/RunResultHistory.java
+END
+UnRegister.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/UnRegister.java
+END
+GetJobSchedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/GetJobSchedule.java
+END
+AddScheduledTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/AddScheduledTime.java
+END
+InitializeAndRegister.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/InitializeAndRegister.java
+END
+ListJobs.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/ListJobs.java
+END
+WaitForJobDeleted.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/WaitForJobDeleted.java
+END
+DeleteJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/DeleteJob.java
+END
+RunSimpleHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/RunSimpleHistory.java
+END
+AbortJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/AbortJob.java
+END
+ListJobStatuses.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/ListJobStatuses.java
+END
+RunDocumentStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/RunDocumentStatus.java
+END
+PauseJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/PauseJob.java
+END
+SynchronizeConnectors.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/SynchronizeConnectors.java
+END
+RunMaxActivityHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/RunMaxActivityHistory.java
+END
+RunQueueStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/RunQueueStatus.java
+END
+RestartJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/RestartJob.java
+END
+UnRegisterAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/UnRegisterAll.java
+END
+CheckConfigured.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/CheckConfigured.java
+END
+StartJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/StartJob.java
+END
+TransactionalCrawlerInitializationCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/TransactionalCrawlerInitializationCommand.java
+END
+WaitForJobInactive.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/WaitForJobInactive.java
+END
+WaitJobPaused.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/WaitJobPaused.java
+END
+BaseCrawlerInitializationCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/BaseCrawlerInitializationCommand.java
+END
+ImportConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/ImportConfiguration.java
+END
+ExportConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/ExportConfiguration.java
+END
+DefineRepositoryConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/DefineRepositoryConnection.java
+END
+FindJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/FindJob.java
+END
+ChangeJobDocSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/ChangeJobDocSpec.java
+END
+RunMaxBandwidthHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/crawler/RunMaxBandwidthHistory.java
+END

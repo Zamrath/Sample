@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/webcrawler/src/test/java/org/apache/manifoldcf/webcrawler_tests
+END
+BaseUIDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/webcrawler/src/test/java/org/apache/manifoldcf/webcrawler_tests/BaseUIDerby.java
+END
+BasePostgresql.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/webcrawler/src/test/java/org/apache/manifoldcf/webcrawler_tests/BasePostgresql.java
+END
+SessionLoginDerbyIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/webcrawler/src/test/java/org/apache/manifoldcf/webcrawler_tests/SessionLoginDerbyIT.java
+END
+BaseMySQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/webcrawler/src/test/java/org/apache/manifoldcf/webcrawler_tests/BaseMySQL.java
+END
+BaseDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/webcrawler/src/test/java/org/apache/manifoldcf/webcrawler_tests/BaseDerby.java
+END
+MockWebService.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/webcrawler/src/test/java/org/apache/manifoldcf/webcrawler_tests/MockWebService.java
+END
+SessionTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/webcrawler/src/test/java/org/apache/manifoldcf/webcrawler_tests/SessionTester.java
+END
+BigCrawlPostgresqlIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/webcrawler/src/test/java/org/apache/manifoldcf/webcrawler_tests/BigCrawlPostgresqlIT.java
+END
+MockSessionWebService.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/webcrawler/src/test/java/org/apache/manifoldcf/webcrawler_tests/MockSessionWebService.java
+END
+BigCrawlMySQLLT.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/webcrawler/src/test/java/org/apache/manifoldcf/webcrawler_tests/BigCrawlMySQLLT.java
+END
+BigCrawlTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/webcrawler/src/test/java/org/apache/manifoldcf/webcrawler_tests/BigCrawlTester.java
+END
+ThrottlingPostgresqlLT.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/webcrawler/src/test/java/org/apache/manifoldcf/webcrawler_tests/ThrottlingPostgresqlLT.java
+END
+NavigationDerbyUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/webcrawler/src/test/java/org/apache/manifoldcf/webcrawler_tests/NavigationDerbyUI.java
+END
+ThrottlingDerbyLT.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/webcrawler/src/test/java/org/apache/manifoldcf/webcrawler_tests/ThrottlingDerbyLT.java
+END
+ThrottlingTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/webcrawler/src/test/java/org/apache/manifoldcf/webcrawler_tests/ThrottlingTester.java
+END

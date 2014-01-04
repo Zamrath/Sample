@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/elasticsearch/src/test/java/org/apache/manifoldcf/elasticsearch_tests
+END
+BaseDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/elasticsearch/src/test/java/org/apache/manifoldcf/elasticsearch_tests/BaseDerby.java
+END
+NavigationDerbyUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/elasticsearch/src/test/java/org/apache/manifoldcf/elasticsearch_tests/NavigationDerbyUI.java
+END
+APISanityDerbyIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/elasticsearch/src/test/java/org/apache/manifoldcf/elasticsearch_tests/APISanityDerbyIT.java
+END
+BaseUIDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/elasticsearch/src/test/java/org/apache/manifoldcf/elasticsearch_tests/BaseUIDerby.java
+END

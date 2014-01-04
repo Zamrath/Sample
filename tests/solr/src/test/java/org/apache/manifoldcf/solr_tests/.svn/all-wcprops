@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/solr/src/test/java/org/apache/manifoldcf/solr_tests
+END
+NavigationDerbyUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/solr/src/test/java/org/apache/manifoldcf/solr_tests/NavigationDerbyUI.java
+END
+SolrTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/solr/src/test/java/org/apache/manifoldcf/solr_tests/SolrTester.java
+END
+MockSolrService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/solr/src/test/java/org/apache/manifoldcf/solr_tests/MockSolrService.java
+END
+SolrCrawlDerbyIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/solr/src/test/java/org/apache/manifoldcf/solr_tests/SolrCrawlDerbyIT.java
+END
+BaseUIDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/solr/src/test/java/org/apache/manifoldcf/solr_tests/BaseUIDerby.java
+END
+FileHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/solr/src/test/java/org/apache/manifoldcf/solr_tests/FileHelper.java
+END
+BaseDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/solr/src/test/java/org/apache/manifoldcf/solr_tests/BaseDerby.java
+END

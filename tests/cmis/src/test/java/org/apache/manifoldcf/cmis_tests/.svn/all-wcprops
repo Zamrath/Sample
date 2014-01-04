@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/cmis/src/test/java/org/apache/manifoldcf/cmis_tests
+END
+APISanityIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/cmis/src/test/java/org/apache/manifoldcf/cmis_tests/APISanityIT.java
+END
+BaseUIDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/cmis/src/test/java/org/apache/manifoldcf/cmis_tests/BaseUIDerby.java
+END
+BaseDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/cmis/src/test/java/org/apache/manifoldcf/cmis_tests/BaseDerby.java
+END
+CMISServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/cmis/src/test/java/org/apache/manifoldcf/cmis_tests/CMISServer.java
+END
+NavigationDerbyUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/cmis/src/test/java/org/apache/manifoldcf/cmis_tests/NavigationDerbyUI.java
+END

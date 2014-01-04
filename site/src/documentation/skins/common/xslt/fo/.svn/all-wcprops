@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/site/src/documentation/skins/common/xslt/fo
+END
+document-to-fo.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/site/src/documentation/skins/common/xslt/fo/document-to-fo.xsl
+END
+pdfoutline.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/site/src/documentation/skins/common/xslt/fo/pdfoutline.xsl
+END
+footerinfo.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/site/src/documentation/skins/common/xslt/fo/footerinfo.xsl
+END

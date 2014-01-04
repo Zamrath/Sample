@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/example-multiprocess-common
+END
+stop-agents.bat
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/example-multiprocess-common/stop-agents.bat
+END
+initialize.sh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/example-multiprocess-common/initialize.sh
+END
+stop-agents.sh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/example-multiprocess-common/stop-agents.sh
+END
+start-agents-2.bat
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/example-multiprocess-common/start-agents-2.bat
+END
+start-agents.bat
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/example-multiprocess-common/start-agents.bat
+END
+start-webapps.bat
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/example-multiprocess-common/start-webapps.bat
+END
+setclasspath.bat
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/example-multiprocess-common/setclasspath.bat
+END
+logging.ini
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/example-multiprocess-common/logging.ini
+END
+start-agents-2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/example-multiprocess-common/start-agents-2.sh
+END
+start-database.bat
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/example-multiprocess-common/start-database.bat
+END
+start-agents.sh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/example-multiprocess-common/start-agents.sh
+END
+start-webapps.sh
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/example-multiprocess-common/start-webapps.sh
+END
+initialize.bat
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/example-multiprocess-common/initialize.bat
+END
+start-database.sh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/example-multiprocess-common/start-database.sh
+END

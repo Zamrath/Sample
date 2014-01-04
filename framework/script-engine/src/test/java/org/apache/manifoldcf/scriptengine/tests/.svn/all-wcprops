@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/test/java/org/apache/manifoldcf/scriptengine/tests
+END
+ScriptEngineBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/test/java/org/apache/manifoldcf/scriptengine/tests/ScriptEngineBase.java
+END
+CommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/test/java/org/apache/manifoldcf/scriptengine/tests/CommandTest.java
+END
+ExpressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/script-engine/src/test/java/org/apache/manifoldcf/scriptengine/tests/ExpressionTest.java
+END

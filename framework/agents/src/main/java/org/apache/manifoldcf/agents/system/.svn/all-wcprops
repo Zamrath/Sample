@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/system
+END
+ManifoldCF.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/system/ManifoldCF.java
+END
+AgentsDaemon.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/system/AgentsDaemon.java
+END
+Logging.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/system/Logging.java
+END
+IdleCleanupThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/system/IdleCleanupThread.java
+END

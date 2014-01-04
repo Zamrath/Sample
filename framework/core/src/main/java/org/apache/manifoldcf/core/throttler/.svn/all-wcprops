@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/throttler
+END
+ThrottleBin.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/throttler/ThrottleBin.java
+END
+FetchBin.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/throttler/FetchBin.java
+END
+ThrottleGroups.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/throttler/ThrottleGroups.java
+END
+Throttler.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/throttler/Throttler.java
+END
+ConnectionBin.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/throttler/ConnectionBin.java
+END

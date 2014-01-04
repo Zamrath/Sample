@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/alfresco/src/test/java/org/apache/manifoldcf/alfresco_tests
+END
+APISanityIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/alfresco/src/test/java/org/apache/manifoldcf/alfresco_tests/APISanityIT.java
+END
+BaseUIDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/alfresco/src/test/java/org/apache/manifoldcf/alfresco_tests/BaseUIDerby.java
+END
+BaseDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/alfresco/src/test/java/org/apache/manifoldcf/alfresco_tests/BaseDerby.java
+END
+NavigationDerbyUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/alfresco/src/test/java/org/apache/manifoldcf/alfresco_tests/NavigationDerbyUI.java
+END

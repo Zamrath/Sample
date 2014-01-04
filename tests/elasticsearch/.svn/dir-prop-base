@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 113
+target
+build
+test-derby-output
+test-HSQLDB-output
+test-HSQLDBext-output
+test-postgresql-output
+test-mysql-output
+
+END

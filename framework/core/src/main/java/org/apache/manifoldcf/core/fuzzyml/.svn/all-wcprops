@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml
+END
+XMLParseState.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/XMLParseState.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/Parser.java
+END
+ByteBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/ByteBuffer.java
+END
+HTMLParseState.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/HTMLParseState.java
+END
+XMLEncodingDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/XMLEncodingDetector.java
+END
+PrefixedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/PrefixedInputStream.java
+END
+XMLFuzzyHierarchicalParseState.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/XMLFuzzyHierarchicalParseState.java
+END
+XMLFuzzyParseState.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/XMLFuzzyParseState.java
+END
+TagParseState.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/TagParseState.java
+END
+AttrNameValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/AttrNameValue.java
+END
+ReplayableInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/ReplayableInputStream.java
+END
+BOMEncodingDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/BOMEncodingDetector.java
+END
+XMLStringParsingContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/XMLStringParsingContext.java
+END
+EncodingDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/EncodingDetector.java
+END
+CharacterReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/CharacterReceiver.java
+END
+SingleCharacterReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/SingleCharacterReceiver.java
+END
+DecodingByteReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/DecodingByteReceiver.java
+END
+CharacterBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/CharacterBuffer.java
+END
+XMLOutputStreamParsingContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/XMLOutputStreamParsingContext.java
+END
+XMLWriterParsingContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/XMLWriterParsingContext.java
+END
+ByteReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/ByteReceiver.java
+END
+PrefixedReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/PrefixedReader.java
+END
+XMLFileParsingContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/XMLFileParsingContext.java
+END
+XMLParsingContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/XMLParsingContext.java
+END
+SingleByteReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/fuzzyml/SingleByteReceiver.java
+END

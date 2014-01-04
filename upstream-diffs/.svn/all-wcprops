@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/upstream-diffs
+END
+commons-httpclient-3.1.cumulative.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/upstream-diffs/commons-httpclient-3.1.cumulative.patch
+END
+commons-httpclient-3.1.mcf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/upstream-diffs/commons-httpclient-3.1.mcf.patch
+END
+xerces2-j-2.9.1.mcf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/upstream-diffs/xerces2-j-2.9.1.mcf.patch
+END

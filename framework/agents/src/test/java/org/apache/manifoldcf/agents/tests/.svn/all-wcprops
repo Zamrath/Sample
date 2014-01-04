@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/test/java/org/apache/manifoldcf/agents/tests
+END
+SanityPostgresqlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/test/java/org/apache/manifoldcf/agents/tests/SanityPostgresqlTest.java
+END
+SanityDerbyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/test/java/org/apache/manifoldcf/agents/tests/SanityDerbyTest.java
+END
+SanityMySQLTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/test/java/org/apache/manifoldcf/agents/tests/SanityMySQLTest.java
+END
+BasePostgresql.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/test/java/org/apache/manifoldcf/agents/tests/BasePostgresql.java
+END
+BaseDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/test/java/org/apache/manifoldcf/agents/tests/BaseDerby.java
+END
+BaseMySQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/test/java/org/apache/manifoldcf/agents/tests/BaseMySQL.java
+END
+SanityHSQLDBTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/test/java/org/apache/manifoldcf/agents/tests/SanityHSQLDBTest.java
+END
+SanityHSQLDBextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/test/java/org/apache/manifoldcf/agents/tests/SanityHSQLDBextTest.java
+END
+BaseHSQLDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/test/java/org/apache/manifoldcf/agents/tests/BaseHSQLDB.java
+END
+BaseHSQLDBext.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/test/java/org/apache/manifoldcf/agents/tests/BaseHSQLDBext.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/jetty-runner/src/main/java/org/apache/manifoldcf/jettyrunner
+END
+ManifoldCFJettyRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/jetty-runner/src/main/java/org/apache/manifoldcf/jettyrunner/ManifoldCFJettyRunner.java
+END
+ManifoldCFCombinedJettyRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/jetty-runner/src/main/java/org/apache/manifoldcf/jettyrunner/ManifoldCFCombinedJettyRunner.java
+END

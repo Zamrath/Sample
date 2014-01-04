@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces
+END
+IMappingConnectorPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/IMappingConnectorPool.java
+END
+IAuthorityGroupManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/IAuthorityGroupManager.java
+END
+IMappingConnectorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/IMappingConnectorManager.java
+END
+AuthorizationDomainManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/AuthorizationDomainManagerFactory.java
+END
+IAuthorityConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/IAuthorityConnector.java
+END
+IAuthorityConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/IAuthorityConnectionManager.java
+END
+IAuthorityGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/IAuthorityGroup.java
+END
+AuthorizationResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/AuthorizationResponse.java
+END
+IMappingConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/IMappingConnectionManager.java
+END
+IMappingConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/IMappingConnector.java
+END
+IAuthorityConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/IAuthorityConnection.java
+END
+IMappingConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/IMappingConnection.java
+END
+AuthorityConnectorPoolFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/AuthorityConnectorPoolFactory.java
+END
+AuthorityConnectorManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/AuthorityConnectorManagerFactory.java
+END
+MappingConnectorPoolFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/MappingConnectorPoolFactory.java
+END
+AuthorityGroupManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/AuthorityGroupManagerFactory.java
+END
+MappingConnectorManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/MappingConnectorManagerFactory.java
+END
+AuthorityConnectorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/AuthorityConnectorFactory.java
+END
+AuthorityConnectionManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/AuthorityConnectionManagerFactory.java
+END
+IAuthorizationDomainManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/IAuthorizationDomainManager.java
+END
+MappingConnectorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/MappingConnectorFactory.java
+END
+MappingConnectionManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/MappingConnectionManagerFactory.java
+END
+CacheKeyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/CacheKeyFactory.java
+END
+IAuthorityConnectorPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/IAuthorityConnectorPool.java
+END
+IAuthorityConnectorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/pull-agent/src/main/java/org/apache/manifoldcf/authorities/interfaces/IAuthorityConnectorManager.java
+END

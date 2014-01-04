@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/jdbcpool
+END
+ConnectionPoolManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/jdbcpool/ConnectionPoolManager.java
+END
+ConnectionPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/jdbcpool/ConnectionPool.java
+END
+WrappedConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/jdbcpool/WrappedConnection.java
+END

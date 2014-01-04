@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces
+END
+IOutputHistoryActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/IOutputHistoryActivity.java
+END
+IIncrementalIngester.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/IIncrementalIngester.java
+END
+IOutputConnectorPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/IOutputConnectorPool.java
+END
+RepositoryDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/RepositoryDocument.java
+END
+IOutputConnectorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/IOutputConnectorManager.java
+END
+IOutputNotifyActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/IOutputNotifyActivity.java
+END
+AgentManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/AgentManagerFactory.java
+END
+ServiceInterruption.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/ServiceInterruption.java
+END
+IOutputConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/IOutputConnector.java
+END
+IOutputConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/IOutputConnectionManager.java
+END
+IOutputActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/IOutputActivity.java
+END
+AgentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/AgentFactory.java
+END
+IOutputConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/IOutputConnection.java
+END
+IncrementalIngesterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/IncrementalIngesterFactory.java
+END
+DocumentIngestStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/DocumentIngestStatus.java
+END
+OutputConnectorPoolFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/OutputConnectorPoolFactory.java
+END
+OutputConnectorManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/OutputConnectorManagerFactory.java
+END
+IOutputAddActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/IOutputAddActivity.java
+END
+OutputSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/OutputSpecification.java
+END
+IIngestLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/IIngestLogger.java
+END
+IAgentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/IAgentManager.java
+END
+OutputConnectionManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/OutputConnectionManagerFactory.java
+END
+OutputConnectorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/OutputConnectorFactory.java
+END
+CacheKeyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/CacheKeyFactory.java
+END
+IOutputRemoveActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/IOutputRemoveActivity.java
+END
+IAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/agents/src/main/java/org/apache/manifoldcf/agents/interfaces/IAgent.java
+END

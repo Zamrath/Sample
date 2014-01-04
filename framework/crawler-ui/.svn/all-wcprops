@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/crawler-ui
+END
+reset-crawler
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/crawler-ui/reset-crawler
+END
+20_crawler
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/crawler-ui/20_crawler
+END
+99_crawler
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/crawler-ui/99_crawler
+END
+30_analyze-reindex
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/crawler-ui/30_analyze-reindex
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/crawler-ui/pom.xml
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core
+END
+InitializationCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/InitializationCommand.java
+END
+DBCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/DBCreate.java
+END
+DBDrop.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/DBDrop.java
+END
+Obfuscate.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/Obfuscate.java
+END
+LockClean.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/LockClean.java
+END
+DBInitializationCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/main/java/org/apache/manifoldcf/core/DBInitializationCommand.java
+END

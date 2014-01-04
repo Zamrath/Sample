@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/test/java/org/apache/manifoldcf/core/lockmanager
+END
+ZooKeeperInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/test/java/org/apache/manifoldcf/core/lockmanager/ZooKeeperInstance.java
+END
+ZooKeeperBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/test/java/org/apache/manifoldcf/core/lockmanager/ZooKeeperBase.java
+END
+TestZooKeeperLocks.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/core/src/test/java/org/apache/manifoldcf/core/lockmanager/TestZooKeeperLocks.java
+END

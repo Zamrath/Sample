@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/wiki/src/test/java/org/apache/manifoldcf/wiki_tests
+END
+BaseUIDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/wiki/src/test/java/org/apache/manifoldcf/wiki_tests/BaseUIDerby.java
+END
+MockWikiService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/wiki/src/test/java/org/apache/manifoldcf/wiki_tests/MockWikiService.java
+END
+BaseDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/wiki/src/test/java/org/apache/manifoldcf/wiki_tests/BaseDerby.java
+END
+NavigationDerbyUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/wiki/src/test/java/org/apache/manifoldcf/wiki_tests/NavigationDerbyUI.java
+END
+SanityDerbyIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/wiki/src/test/java/org/apache/manifoldcf/wiki_tests/SanityDerbyIT.java
+END

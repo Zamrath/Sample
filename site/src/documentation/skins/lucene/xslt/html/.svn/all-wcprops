@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/site/src/documentation/skins/lucene/xslt/html
+END
+tab-to-menu.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/site/src/documentation/skins/lucene/xslt/html/tab-to-menu.xsl
+END
+book-to-menu.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/site/src/documentation/skins/lucene/xslt/html/book-to-menu.xsl
+END
+site-to-xhtml.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/site/src/documentation/skins/lucene/xslt/html/site-to-xhtml.xsl
+END
+document-to-html.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/site/src/documentation/skins/lucene/xslt/html/document-to-html.xsl
+END

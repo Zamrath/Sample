@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests
+END
+FileHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/FileHelper.java
+END
+HopcountPostgresqlIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/HopcountPostgresqlIT.java
+END
+BigCrawlDerbyLT.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/BigCrawlDerbyLT.java
+END
+BigCrawlTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/BigCrawlTester.java
+END
+APISanityPostgresqlIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/APISanityPostgresqlIT.java
+END
+HopcountMySQLIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/HopcountMySQLIT.java
+END
+APISanityMySQLIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/APISanityMySQLIT.java
+END
+HopcountTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/HopcountTester.java
+END
+APISanityTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/APISanityTester.java
+END
+SanityDerbyIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/SanityDerbyIT.java
+END
+BaseMySQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/BaseMySQL.java
+END
+SanityHSQLDBIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/SanityHSQLDBIT.java
+END
+ExpirationPostgresqlIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/ExpirationPostgresqlIT.java
+END
+ExpirationDerbyIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/ExpirationDerbyIT.java
+END
+BaseUIHSQLDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/BaseUIHSQLDB.java
+END
+BaseHSQLDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/BaseHSQLDB.java
+END
+ExpirationTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/ExpirationTester.java
+END
+BigCrawlMySQLLT.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/BigCrawlMySQLLT.java
+END
+HopcountDerbyIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/HopcountDerbyIT.java
+END
+NavigationDerbyUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/NavigationDerbyUI.java
+END
+APISanityDerbyIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/APISanityDerbyIT.java
+END
+NavigationUITester.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/NavigationUITester.java
+END
+SanityPostgresqlIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/SanityPostgresqlIT.java
+END
+BigCrawlHSQLDBLT.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/BigCrawlHSQLDBLT.java
+END
+SanityMySQLIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/SanityMySQLIT.java
+END
+HopcountHSQLDBIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/HopcountHSQLDBIT.java
+END
+APISanityHSQLDBIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/APISanityHSQLDBIT.java
+END
+NavigationCombinedHSQLDBUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/NavigationCombinedHSQLDBUI.java
+END
+APISanityCombinedHSQLDBIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/APISanityCombinedHSQLDBIT.java
+END
+BaseUIDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/BaseUIDerby.java
+END
+BasePostgresql.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/BasePostgresql.java
+END
+SanityTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/SanityTester.java
+END
+BaseDerby.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/BaseDerby.java
+END
+ExpirationMySQLIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/ExpirationMySQLIT.java
+END
+ExpirationHSQLDBIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/ExpirationHSQLDBIT.java
+END
+BigCrawlPostgresqlLT.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/filesystem/src/test/java/org/apache/manifoldcf/filesystem_tests/BigCrawlPostgresqlLT.java
+END

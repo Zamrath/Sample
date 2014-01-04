@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests
+END
+ifs-test-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/ifs-test-build.xml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/pom.xml
+END
+test-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/test-build.xml
+END
+icmis-test-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/icmis-test-build.xml
+END
+ino-test-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/tests/ino-test-build.xml
+END

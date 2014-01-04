@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/example-singleprocess-common
+END
+start-combined.bat
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/example-singleprocess-common/start-combined.bat
+END
+setclasspath.bat
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/example-singleprocess-common/setclasspath.bat
+END
+logging.ini
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/example-singleprocess-common/logging.ini
+END
+start-combined.sh
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1554204/manifoldcf/branches/CONNECTORS-674/framework/example-singleprocess-common/start-combined.sh
+END

@@ -1,0 +1,20 @@
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 1049
+/incubator/lcf/branches/CONNECTORS-151-branch/legacy-tests/Javascript.py:1063444-1071206
+/incubator/lcf/branches/CONNECTORS-160-branch/legacy-tests/Javascript.py:1071241-1071534
+/incubator/lcf/branches/CONNECTORS-195/legacy-tests/Javascript.py:1098950-1099321
+/incubator/lcf/branches/CONNECTORS-203/legacy-tests/Javascript.py:1128152-1130460
+/incubator/lcf/branches/CONNECTORS-221/legacy-tests/Javascript.py:1143785-1151084
+/incubator/lcf/branches/CONNECTORS-223/legacy-tests/Javascript.py:1146689-1146810
+/incubator/lcf/branches/CONNECTORS-224/legacy-tests/Javascript.py:1154884-1158633
+/incubator/lcf/branches/CONNECTORS-236/legacy-tests/Javascript.py:1153921-1154314
+/incubator/lcf/branches/CONNECTORS-240/legacy-tests/Javascript.py:1163953-1166425
+/incubator/lcf/branches/CONNECTORS-256/legacy-tests/Javascript.py:1172846-1182809
+/incubator/lcf/branches/CONNECTORS-32/legacy-tests/Javascript.py:1092556-1094216
+/incubator/lcf/branches/CONNECTORS-335/framework/core/src/test/resource/org/apache/manifoldcf/core/tests/Javascript.py:1224860-1225060
+END
